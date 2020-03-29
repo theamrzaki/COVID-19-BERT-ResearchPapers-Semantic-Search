@@ -1,4 +1,7 @@
 # COVID-19-BERT-ResearchPapers-Semantic-Search
+if you are able to endorse me on Arxiv, i would be more than glad https://arxiv.org/auth/endorse?x=FRBB89 thanks 
+
+
 BERT semantic search engine for searching literature research papers for coronavirus covid-19 in google colab
 
 ## Data links
