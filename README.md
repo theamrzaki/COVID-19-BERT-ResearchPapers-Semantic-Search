@@ -8,6 +8,9 @@ BERT semantic search engine for searching literature research papers for coronav
 - [proccessed dataset](https://drive.google.com/open?id=17CmqI2uyYitpos6Lxmk4E7PSShIMmxUm)
 - [embedded paragraphs (1GB)](https://drive.google.com/open?id=1-PYF5y1hIpzwoXosNIpBP2L_Gyt5oUbv) which took some time for embedding, 
   so you can simply use it without running the embedding again
-  
+#### FineTune
+- [FineTuned BERT](https://drive.google.com/open?id=1p_RzIggZPvxJDXzXcHoEXChePii-2ZRG)
+- [FineTuned embedded paragraphs (219MB)](https://drive.google.com/open?id=1e7_6PntJRD3wlfYQDhyz-zArCMhA8FnV)
+
 which are hosted on google drive, we have built the [code](https://www.kaggle.com/theamrzaki/covid-19-bert-researchpapers-semantic-search), 
 to seamlessly connect to google drive, (learn more about connecting with google drive here)
